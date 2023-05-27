@@ -6,7 +6,7 @@ The admission process for engineering colleges is a crucial phase for students a
 Our project’s primary purpose is to provide consolidated information about all engineering colleges along with the caste-wise cut-off list for all available branches. Currently, our project is developed specifically for students aspiring to get admitted in Top Engineering Colleges in Maharashtra. This will help students to search for a particular college and branch cut-off instead of going through the whole cut-off lists. This helps to narrow-down the search based on college name, branch name, percentile in order to get the precise information in a fraction of seconds.
 
 ## System Architecture
-![System Architecture](https://github.com/rid17pawar/CollegeCutoffExplorer/blob/main/readme_images/System_Diagram.png)
+![System_Diagram](https://github.com/rid17pawar/CollegeCutoffExplorer/assets/47048717/7cd77460-267e-47d1-8d46-25fc4ec89c67)
 
 ## Technologies Used-
 ### 1. Front end Technologies:
@@ -22,10 +22,9 @@ Our project’s primary purpose is to provide consolidated information about all
 ## Snapshots-
 
 Power BI Reports
+![PowerBI_Report_TopN](https://github.com/rid17pawar/CollegeCutoffExplorer/assets/47048717/f0e1a132-0484-4e87-83e4-90f8665178e7)
 
-![Report-1](https://github.com/rid17pawar/CollegeCutoffExplorer/blob/main/readme_images/PowerBI_Report_TopN.PNG)
 
-
-![Report-2](https://github.com/rid17pawar/CollegeCutoffExplorer/blob/main/readme_images/PowerBI_Report_Details.PNG)
+![PowerBI_Report_Details](https://github.com/rid17pawar/CollegeCutoffExplorer/assets/47048717/b0b5802d-38d7-42f8-a88d-e896bbe72988)
 
 ### Thank You !
