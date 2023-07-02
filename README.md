@@ -1,7 +1,7 @@
 # CollegeCutoffExplorer
 
 ### _YouTube Video Link: [https://youtu.be/SwE4mxQxhEI](https://youtu.be/z044Oe8OUII)_
-
+#### PPT Presentation: [click here](https://drive.google.com/file/d/17AUJgyMIsWUYjG5X902cL9oM8NA0pSYc/view?usp=sharing)
 
 ## Introduction
 This project is developed exclusively for students aspiring to study in Top Engineering Colleges in Maharashtra. Instead of reading through all of the cut-off lists, students will be able to find a particular college and branch cut-off using this system. This facilitates in filtering the search results based on college name, branch name, and percentile to obtain accurate information in a blink of an eye. </br></br>
